@@ -15,11 +15,11 @@
 
 <br>
 
-![Animated Countdown]()
+![Animated Countdown](images/animated-countdown.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Animated-Countdown/)
 
 <br>
 
